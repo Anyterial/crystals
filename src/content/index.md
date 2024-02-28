@@ -8,4 +8,6 @@ Anyterial crystals
 
 This is a placeholder website for our upcoming crystal structure database.
 
+## Links
+
 * [Contact](contact)
